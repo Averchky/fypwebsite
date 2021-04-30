@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/fypwebsite/static/css/main.b21d96b9.chunk.css",
+    "main.js": "/fypwebsite/static/js/main.65c704bf.chunk.js",
+    "main.js.map": "/fypwebsite/static/js/main.65c704bf.chunk.js.map",
+    "runtime-main.js": "/fypwebsite/static/js/runtime-main.6402af01.js",
+    "runtime-main.js.map": "/fypwebsite/static/js/runtime-main.6402af01.js.map",
+    "static/css/2.c0ac8910.chunk.css": "/fypwebsite/static/css/2.c0ac8910.chunk.css",
+    "static/js/2.ac9afb98.chunk.js": "/fypwebsite/static/js/2.ac9afb98.chunk.js",
+    "static/js/2.ac9afb98.chunk.js.map": "/fypwebsite/static/js/2.ac9afb98.chunk.js.map",
+    "index.html": "/fypwebsite/index.html",
+    "precache-manifest.90d96dfb40327d8f3cb222de8303e8f6.js": "/fypwebsite/precache-manifest.90d96dfb40327d8f3cb222de8303e8f6.js",
+    "service-worker.js": "/fypwebsite/service-worker.js",
+    "static/css/2.c0ac8910.chunk.css.map": "/fypwebsite/static/css/2.c0ac8910.chunk.css.map",
+    "static/css/main.b21d96b9.chunk.css.map": "/fypwebsite/static/css/main.b21d96b9.chunk.css.map",
+    "static/js/2.ac9afb98.chunk.js.LICENSE.txt": "/fypwebsite/static/js/2.ac9afb98.chunk.js.LICENSE.txt",
+    "static/media/awareness.png": "/fypwebsite/static/media/awareness.e2bf5f20.png",
+    "static/media/bgvideo.mp4": "/fypwebsite/static/media/bgvideo.4262b482.mp4",
+    "static/media/cinem.png": "/fypwebsite/static/media/cinem.9e73e6a9.png",
+    "static/media/gameprogress.png": "/fypwebsite/static/media/gameprogress.fedf630d.png",
+    "static/media/img-9.jpeg": "/fypwebsite/static/media/img-9.d52b4a90.jpeg",
+    "static/media/item.png": "/fypwebsite/static/media/item.63159a50.png",
+    "static/media/lockpick.PNG": "/fypwebsite/static/media/lockpick.3bfd241a.PNG",
+    "static/media/scramblelock.png": "/fypwebsite/static/media/scramblelock.653523cc.png",
+    "static/media/slick-theme.css": "/fypwebsite/static/media/slick.f97e3bbf.svg",
+    "static/media/sokoban.png": "/fypwebsite/static/media/sokoban.da110245.png",
+    "static/media/teamlogo_white.png": "/fypwebsite/static/media/teamlogo_white.87ec8444.png",
+    "static/media/uniquepath.png": "/fypwebsite/static/media/uniquepath.201827b7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6402af01.js",
+    "static/css/2.c0ac8910.chunk.css",
+    "static/js/2.ac9afb98.chunk.js",
+    "static/css/main.b21d96b9.chunk.css",
+    "static/js/main.65c704bf.chunk.js"
+  ]
+}

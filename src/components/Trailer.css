@@ -1,0 +1,7 @@
+.video-js {
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
