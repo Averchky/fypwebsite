@@ -6,6 +6,8 @@ import Footer from '../Footer';
 
 import Fade from '@material-ui/core/Fade';
 
+
+
 function Home() {
   return (
     <Fade in={true} timeout={500}>

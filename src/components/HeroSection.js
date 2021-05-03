@@ -9,8 +9,13 @@ function HeroSection() {
   return (
     <div className='hero-container'>
       <video src={bgVideo} autoPlay loop muted />
-      <h1>ADVENTURE AWAITS</h1>
-      <p>What are you waiting for?</p>
+
+      <h1><style>
+          @import url('https://fonts.googleapis.com/css2?family=Creepster&family=Nosifer&display=swap');
+      </style>Looks can be deceiving</h1>
+      <p><style>
+          @import url('https://fonts.googleapis.com/css2?family=Creepster&family=Nosifer&family=Press+Start+2P&display=swap');
+      </style>Are you ready to solve the mystery?</p>
       <div className='hero-btns'>
 
         <Button
